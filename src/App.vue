@@ -40,7 +40,7 @@ export default {
 
 <style>
   .isLogin-block p {
-    margin-top: 10px;
+    margin-top: 9px;
     color: #fff;
   }
   .isLogin-block p a {
