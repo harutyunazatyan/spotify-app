@@ -106,7 +106,7 @@
         margin-top: 10px;
         padding: 20px;
         display: flex;
-        background-color: #353535;
+        background-color: #202124;
     }
     .artist-image {
         width: 200px;
